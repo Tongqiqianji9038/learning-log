@@ -8,3 +8,5 @@
 装好 Git，学会 clone / add / commit / push
 新概念：列表、for 循环、len/sum/max/min、f-string 格式化
 程序：成绩统计（含空输入处理）
+## 2026-11-14
+def、参数、return，三个函数改造进 scores.py
